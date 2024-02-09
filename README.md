@@ -41,6 +41,8 @@ https://computernewb.com/isos/windows/10%2022H2%20Enterprise%20x64%20en-US.iso
 https://computernewb.com/isos/windows/Win10_22H2_English_x64.iso
 +Windows 10 LTSB:
 https://computernewb.com/isos/windows/Windows%2010%20LTSB%20x64.iso
++Windows 10 Lite:
+https://archive.org/download/tiny-10-23-h2/tiny10%20x64%2023h2.iso
 
 -Windows11 (File Bỏ Qua TPM & CPU | 21H2):
 https://download1327.mediafire.com/fum3c3jywh4gNpypwDhEw0oNwprHlREwTYgfQgOTCG3FwxA2M1Y8f0fFcQKWakIl3_aMh8GgTGnf7xmG86Kb52YrypE-1rV_LNkToic3HGT3uxmWuSCyvlh5KaSxyqq-Z4-32egyMYXF1_vUjfahNFoCFYkJ5BD-2gHDSaFa6cMGxnkp/umxvf6lvyxtxm5x/Windows_11_Pro_x64_English_TPM_CPU_Bypassed.iso

@@ -52,7 +52,5 @@ https://download848.mediafire.com/nab5a9f5k2ognq3OQMF-wkczVxfwqB_hyfJ7RWOIgI9TW9
 
 Trong Các File Iso Riêng File Iso Win11 Là Mik Làm Khác Link Bởi Vì Bên Microsoft Họ Bắt Buộc Phải Đủ Điều Kiện Để Bỏ Qua Bước Vì Thế Mik Đã Bỏ Những Điều Kiện Của Microsoft
 
-file bypass windows 11
-https://download1075.mediafire.com/mal8gtqagthgVGbM02OjQ7s6O_Ad4BSnorRHrn0ZVN-QqFdndoBlFL6v_KrLos7zhcaXkyA9544WVmFjNWgI5-L4RISBwVQzWfunAr0rErDZOdj1bfHtlqAvbt05wEiJghuor0EsT7Hxg9/tgipC6T1gpByxkh-Xjm6Qu2cN6MheGgq6/mnzsor034gxlxg9/BypassTPMCheckSecureBoot.reg
 
 

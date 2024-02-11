@@ -50,8 +50,7 @@ https://download1327.mediafire.com/fum3c3jywh4gNpypwDhEw0oNwprHlREwTYgfQgOTCG3Fw
 -Windows11 (File Bỏ Qua TMP & CPU | 22H2):
 https://download848.mediafire.com/nab5a9f5k2ognq3OQMF-wkczVxfwqB_hyfJ7RWOIgI9TW9Vwpl8Bn2ZxGQmOnjDk2DAs2HwO5qP0U-HPYed1xh3qwYezDadxG_MA8er-Jg1RjEWF0NKHwVKJl71noKDQq6fWQfBMZVVMDagcE_oQH3Y-HAK9Rxjz5Gi0M3CCJPbcEexW/wy3fgcg1vqfwltg/PhanMem.Me+-+Windows+11+22H2+22621.2861+AIO+by+adguard+v23.12.12.iso
 
--Windows11 (File Bỏ Qua TMP & CPU | 23H2): (Không Ra IP
-https://download1075.mediafire.com/5k61ro2kqjugWxs6WRAOSI-KzKnWNyQPrW8fKsrV9GQV9oQQrcfAEeq944BXqxFVX_2BUKli9bOr_DNPqD0TOLTYCDVLLBUOf5xWAQhXYNe8cfgyOKHTeZGO9yETG_n4zUvY32CM4fxwIFWcBGSPO_Vew4aZ-Hr21Q0_lipyaViai0MT/de1j1kedlo46fma/KeyWin11.Com+-+Windows+11+v23h2+Build+22631.2861+AIO+18in1+v23.12.12+by+adguard.iso
+
 
 Trong Các File Iso Riêng File Iso Win11 Là Mik Làm Khác Link Bởi Vì Bên Microsoft Họ Bắt Buộc Phải Đủ Điều Kiện Để Bỏ Qua Bước Vì Thế Mik Đã Bỏ Những Điều Kiện Của Microsoft
 

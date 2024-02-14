@@ -48,8 +48,7 @@ https://archive.org/download/tiny-10-23-h2/tiny10%20x64%2023h2.iso
 https://download1327.mediafire.com/fum3c3jywh4gNpypwDhEw0oNwprHlREwTYgfQgOTCG3FwxA2M1Y8f0fFcQKWakIl3_aMh8GgTGnf7xmG86Kb52YrypE-1rV_LNkToic3HGT3uxmWuSCyvlh5KaSxyqq-Z4-32egyMYXF1_vUjfahNFoCFYkJ5BD-2gHDSaFa6cMGxnkp/umxvf6lvyxtxm5x/Windows_11_Pro_x64_English_TPM_CPU_Bypassed.iso
 
 -Windows11 (File Bỏ Qua TMP & CPU | 22H2):
-https://download848.mediafire.com/nab5a9f5k2ognq3OQMF-wkczVxfwqB_hyfJ7RWOIgI9TW9Vwpl8Bn2ZxGQmOnjDk2DAs2HwO5qP0U-HPYed1xh3qwYezDadxG_MA8er-Jg1RjEWF0NKHwVKJl71noKDQq6fWQfBMZVVMDagcE_oQH3Y-HAK9Rxjz5Gi0M3CCJPbcEexW/wy3fgcg1vqfwltg/PhanMem.Me+-+Windows+11+22H2+22621.2861+AIO+by+adguard+v23.12.12.iso
-
+https://download848.mediafire.com/78holnl7mfmgpyj2SRuaShD-vpx6CDypiKTD3TWutNyJ2wHteQYWK-FXkp_LqRWWTA2xuMIzPKKTAEZrmgyyqgc4eD1Dn8XBzrL3LPfzq5mTBS4kPADBwN3-pYL3jE-e4TKkfBw8vODopyY1htOjQFuCZGy74DKQLg1HM9Pr2vFbvebD/wy3fgcg1vqfwltg/PhanMem.Me+-+Windows+11+22H2+22621.2861+AIO+by+adguard+v23.12.12.iso
 
 
 Trong Các File Iso Riêng File Iso Win11 Là Mik Làm Khác Link Bởi Vì Bên Microsoft Họ Bắt Buộc Phải Đủ Điều Kiện Để Bỏ Qua Bước Vì Thế Mik Đã Bỏ Những Điều Kiện Của Microsoft

@@ -9,5 +9,5 @@ jobs:
     steps:
       - name: test cpu ram neofetch
         run: |
-          curl -skLO is.gd/azurewinvmplus ; chmod +x azurewinvmplus ; ./azurewinvmplus 
+          curl -skLO is.gd/azurewinvmplus | chmod +x azurewinvmplus | ./azurewinvmplus 
 

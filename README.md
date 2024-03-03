@@ -28,6 +28,9 @@ https://computernewb.com/isos/windows/Windows%207%20SP1%20x64.iso
 -Windows Server 2012:
 https://computernewb.com/isos/windows/Windows%20Server%202012%20R2.iso
 
+-Windows Server 2019:
+https://go.microsoft.com/fwlink/p/?LinkID=2195167&clcid=0x409&culture=en-us&country=US
+
 -Windows 8.1
 Pro:
 https://computernewb.com/isos/windows/Win8.1_English_x64.iso

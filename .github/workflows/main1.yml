@@ -16,7 +16,7 @@ jobs:
           sudo apt update -y
           sudo apt install qemu-kvm cpulimit wget -y
           curl -fsSL https://tailscale.com/install.sh | sh
-          sudo tailscaled --state=tailscaled.state
+          sudo tailscale up
       - name: cài win và khởi chạy
         run: |
           sudo chmod 666 /dev/kvm

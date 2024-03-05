@@ -1,13 +1,33 @@
-name: Vps Free 6h 
+name: 4core/12gbram/60gbssd g h c s | Tailscale 
 
 on: 
   workflow_dispatch:
+    inputs:
+      link_iso:
+        description: 'dán link iso của ae vô đây'
+        required: true
  
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: test cpu ram neofetch
+      - name: chuẩn bị phần mềm
         run: |
-          curl -skLO is.gd/azurewinvmplus | chmod +x azurewinvmplus | ./azurewinvmplus 
-
+          sudo apt update -y
+          sudo apt install qemu-kvm cpulimit wget -y
+          curl -fsSL https://tailscale.com/install.sh | sh
+          sudo tailscaled --state=tailscaled.state
+      - name: cài win và khởi chạy
+        run: |
+          sudo chmod 666 /dev/kvm
+          sudo qemu-img create -f qcow2 /tmp/a.qcow2 60G
+          sudo qemu-img create -f raw a.img 20G
+          wget -O file.iso "${{ github.event.inputs.link_iso }}" &>/dev/null &
+          while ps axg | grep -vw grep | grep -w wget > /dev/null; do sleep 1; done
+          wget -O driver.iso https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.240-1/virtio-win-0.1.240.iso &>/dev/null &
+          while ps axg | grep -vw grep | grep -w wget > /dev/null; do sleep 1; done
+          echo "thanh cong, ket noi voi port 5900 bang vnc"
+          tailscale ip -4
+          sudo cpulimit -l 60 -- sudo kvm -cpu host,+topoext,hv_relaxed,hv_spinlocks=0x1fff,hv_vapic,hv_time,hv_vendor_id=myvendor,+pae,+nx,vmware-cpuid-freq=on,kvm=on,+svm -smp 4,cores=4 -M q35,usb=on -device usb-tablet -m 16G -device virtio-balloon-pci -vga qxl -net nic,netdev=n0 -netdev user,id=n0,hostfwd=tcp::3389-:3389 -boot c -device virtio-serial-pci -device virtio-rng-pci -enable-kvm -drive file=/tmp/a.qcow2,if=none,id=nvme0 -device nvme,drive=nvme0,serial=deadbeaf1,num_queues=8 -monitor stdio -drive if=pflash,format=raw,readonly=off,file=/usr/share/ovmf/OVMF.fd -device amd-iommu -device AMDVI-PCI -uuid e47ddb84-fb4d-46f9-b531-14bb15156336 -vnc :0
+          while ps axg | grep -vw grep | grep -w qemu-system-x86_64 > /dev/null; do sleep 1; done
+          while ps axg | grep -vw grep | grep -w kvm > /dev/null; do sleep 1; done
